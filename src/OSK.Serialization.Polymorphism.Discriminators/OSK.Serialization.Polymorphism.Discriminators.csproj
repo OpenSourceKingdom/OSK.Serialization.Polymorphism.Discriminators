@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+	  <RepositoryUrl>https://github.com/OpenSourceKingdom/OSK.Serialization.Polymorphism.Discriminators</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <Description>A polymorphism strategy that utilizes enum types as the basis for deserialization</Description>
+	  <PackageTags>OpenSourceKingdom, OpenSource, Serialization, Deserialization, Serializing, Deserializing, Converting, Polymorphism, Inheritance, Abstraction, Enum, Discriminator</PackageTags>
+	  <Authors>BlankDev117</Authors>
+	  <Title>OSK.Serialization.Polymorphism.Discriminators</Title>
+  </PropertyGroup>
+
+  <PropertyGroup>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+	
+  <ItemGroup>
+    <PackageReference Include="OSK.DataStructures.Common" Version="1.0.0" />
+    <PackageReference Include="OSK.Serialization.Polymorphism" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

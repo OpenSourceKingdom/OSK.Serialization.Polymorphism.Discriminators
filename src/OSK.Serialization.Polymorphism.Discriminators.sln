@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OSK.Serialization.Polymorphism.Discriminators", "OSK.Serialization.Polymorphism.Discriminators\OSK.Serialization.Polymorphism.Discriminators.csproj", "{1942D979-691F-4139-A9F9-7A075E817217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSK.Serialization.Polymorphism.Discriminators.UnitTests", "OSK.Serialization.Polymorphism.Discriminators.UnitTests\OSK.Serialization.Polymorphism.Discriminators.UnitTests.csproj", "{505D3E8A-5FB1-4E90-AE8A-C5F7542EB8D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1942D979-691F-4139-A9F9-7A075E817217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1942D979-691F-4139-A9F9-7A075E817217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1942D979-691F-4139-A9F9-7A075E817217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1942D979-691F-4139-A9F9-7A075E817217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505D3E8A-5FB1-4E90-AE8A-C5F7542EB8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505D3E8A-5FB1-4E90-AE8A-C5F7542EB8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505D3E8A-5FB1-4E90-AE8A-C5F7542EB8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505D3E8A-5FB1-4E90-AE8A-C5F7542EB8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F11BD354-8D49-4952-97C2-E1727F0DD370}
+	EndGlobalSection
+EndGlobal
